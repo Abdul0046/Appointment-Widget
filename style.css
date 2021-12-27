@@ -1,0 +1,8 @@
+/* .modalcalander::-webkit-calendar-picker-indicator {
+  background: no-repeat center
+    url("https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-calendar-business-kiranshastry-solid-kiranshastry.png");
+  background-size: 20px;
+} */
+.modalInnerDiv {
+  align-self: left;
+}
